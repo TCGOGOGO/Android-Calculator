@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TC的计算器</string>
+    <string name="divide0warning">除0异常</string>
+    <string name="equation">算式:</string>
+</resources>
